@@ -1,0 +1,8 @@
+This book, Node Web Development, focuses on building web applications using Node. 
+We will be taking a tour through the important concepts required to speed up with Node. 
+To do so we'll be writing real applications, dissecting them to scrutinize how they work, 
+and discussing how to apply the ideas to your own programs. We'll install Node and npm, 
+and learn how to install or develop npm packages and Node modules. We'll develop several 
+applications, ponder the effects of long-running calculations on event loop responsiveness, 
+look at a couple of ways to distribute heavy workloads to other servers, 
+work with the Express framework, and more.
